@@ -1,5 +1,4 @@
 ## Observables
-Performance optimized observable objects library
 
 Performance optimized observables typescript library, that helps to manage UI state in reactive way.
 Inspired by MOBX (https://mobx.js.org/).
